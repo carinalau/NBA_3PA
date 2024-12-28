@@ -13,10 +13,9 @@ This project investigates the causal relationship between the number of three-po
   - Covariates such as turnovers, offensive rebounds, and blocks were adjusted for in the analysis to control confounding effects.
 
 ## Tools and Libraries
-- R: Data processing, matching analysis, and regression modeling.
+- R: For data processing, matching analysis, data visualization, and regression modeling.
 - MatchIt: For nearest neighbor matching.
 - dplyr: For data manipulation.
-- ggplot2: For data visualization.
 
 ## Highlights
 - This project provides valuable insights into modern NBA strategies and their effectiveness.
